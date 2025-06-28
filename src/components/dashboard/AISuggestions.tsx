@@ -1,5 +1,5 @@
 
-import { Brain, ArrowRight, Lightbulb, Clock } from "lucide-react";
+import { Brain, ArrowRight, Lightbulb, Clock, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const AISuggestions = () => {

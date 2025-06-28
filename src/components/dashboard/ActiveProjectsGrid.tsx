@@ -1,5 +1,5 @@
 
-import { MoreHorizontal, Users, Calendar, TrendingUp } from "lucide-react";
+import { MoreHorizontal, Users, Calendar, TrendingUp, CheckSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const ActiveProjectsGrid = () => {
